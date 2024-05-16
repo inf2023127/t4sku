@@ -1,3 +1,4 @@
+//t4sku//
 def categories(option=None):
     from colorama import init, Back, Fore
     init(autoreset=True)
